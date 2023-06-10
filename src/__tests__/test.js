@@ -1,4 +1,4 @@
-import ErrorRepository from '../errorRepository';
+import ErrorRepository from '../ErrorRepository';
 
 test('Checking translate function result', () => {
   const gameErrorRepo = new ErrorRepository();
